@@ -5,7 +5,6 @@ public class Player {
     private String nickname;
     private int personalKillCount;
     private int id;
-    
     public Player(String nickname, int id){
         this.nickname = nickname;
         this.personalKillCount = 0;
