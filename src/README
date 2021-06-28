@@ -1,0 +1,2 @@
+Projeto de leitura do arquivo quake_input2.log, agrupamento e exibição de informações
+das partidas do jogo quake.
